@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"https://github.com/Colspace/Zzd/blob/main/pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
